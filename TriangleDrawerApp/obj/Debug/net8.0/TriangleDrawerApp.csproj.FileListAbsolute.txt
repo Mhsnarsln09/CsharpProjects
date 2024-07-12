@@ -1,0 +1,15 @@
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\TriangleDrawerApp\bin\Debug\net8.0\TriangleDrawerApp.exe
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\TriangleDrawerApp\bin\Debug\net8.0\TriangleDrawerApp.deps.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\TriangleDrawerApp\bin\Debug\net8.0\TriangleDrawerApp.runtimeconfig.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\TriangleDrawerApp\bin\Debug\net8.0\TriangleDrawerApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\TriangleDrawerApp\bin\Debug\net8.0\TriangleDrawerApp.pdb
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\TriangleDrawerApp\obj\Debug\net8.0\TriangleDrawerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\TriangleDrawerApp\obj\Debug\net8.0\TriangleDrawerApp.AssemblyInfoInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\TriangleDrawerApp\obj\Debug\net8.0\TriangleDrawerApp.AssemblyInfo.cs
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\TriangleDrawerApp\obj\Debug\net8.0\TriangleDrawerApp.csproj.CoreCompileInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\TriangleDrawerApp\obj\Debug\net8.0\TriangleDrawerApp.sourcelink.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\TriangleDrawerApp\obj\Debug\net8.0\TriangleDrawerApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\TriangleDrawerApp\obj\Debug\net8.0\refint\TriangleDrawerApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\TriangleDrawerApp\obj\Debug\net8.0\TriangleDrawerApp.pdb
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\TriangleDrawerApp\obj\Debug\net8.0\TriangleDrawerApp.genruntimeconfig.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\TriangleDrawerApp\obj\Debug\net8.0\ref\TriangleDrawerApp.dll
