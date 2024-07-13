@@ -1,0 +1,15 @@
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\CircleDrawerApp\bin\Debug\net8.0\CircleDrawerApp.exe
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\CircleDrawerApp\bin\Debug\net8.0\CircleDrawerApp.deps.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\CircleDrawerApp\bin\Debug\net8.0\CircleDrawerApp.runtimeconfig.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\CircleDrawerApp\bin\Debug\net8.0\CircleDrawerApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\CircleDrawerApp\bin\Debug\net8.0\CircleDrawerApp.pdb
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\CircleDrawerApp\obj\Debug\net8.0\CircleDrawerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\CircleDrawerApp\obj\Debug\net8.0\CircleDrawerApp.AssemblyInfoInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\CircleDrawerApp\obj\Debug\net8.0\CircleDrawerApp.AssemblyInfo.cs
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\CircleDrawerApp\obj\Debug\net8.0\CircleDrawerApp.csproj.CoreCompileInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\CircleDrawerApp\obj\Debug\net8.0\CircleDrawerApp.sourcelink.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\CircleDrawerApp\obj\Debug\net8.0\CircleDrawerApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\CircleDrawerApp\obj\Debug\net8.0\refint\CircleDrawerApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\CircleDrawerApp\obj\Debug\net8.0\CircleDrawerApp.pdb
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\CircleDrawerApp\obj\Debug\net8.0\CircleDrawerApp.genruntimeconfig.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\CircleDrawerApp\obj\Debug\net8.0\ref\CircleDrawerApp.dll
