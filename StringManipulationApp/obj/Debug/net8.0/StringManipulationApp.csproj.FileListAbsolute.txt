@@ -1,0 +1,15 @@
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\StringManipulationApp\bin\Debug\net8.0\StringManipulationApp.exe
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\StringManipulationApp\bin\Debug\net8.0\StringManipulationApp.deps.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\StringManipulationApp\bin\Debug\net8.0\StringManipulationApp.runtimeconfig.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\StringManipulationApp\bin\Debug\net8.0\StringManipulationApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\StringManipulationApp\bin\Debug\net8.0\StringManipulationApp.pdb
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\StringManipulationApp\obj\Debug\net8.0\StringManipulationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\StringManipulationApp\obj\Debug\net8.0\StringManipulationApp.AssemblyInfoInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\StringManipulationApp\obj\Debug\net8.0\StringManipulationApp.AssemblyInfo.cs
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\StringManipulationApp\obj\Debug\net8.0\StringManipulationApp.csproj.CoreCompileInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\StringManipulationApp\obj\Debug\net8.0\StringManipulationApp.sourcelink.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\StringManipulationApp\obj\Debug\net8.0\StringManipulationApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\StringManipulationApp\obj\Debug\net8.0\refint\StringManipulationApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\StringManipulationApp\obj\Debug\net8.0\StringManipulationApp.pdb
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\StringManipulationApp\obj\Debug\net8.0\StringManipulationApp.genruntimeconfig.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\StringManipulationApp\obj\Debug\net8.0\ref\StringManipulationApp.dll
