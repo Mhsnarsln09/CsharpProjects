@@ -1,0 +1,15 @@
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\PairSumCalculator\bin\Debug\net8.0\PairSumCalculator.exe
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\PairSumCalculator\bin\Debug\net8.0\PairSumCalculator.deps.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\PairSumCalculator\bin\Debug\net8.0\PairSumCalculator.runtimeconfig.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\PairSumCalculator\bin\Debug\net8.0\PairSumCalculator.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\PairSumCalculator\bin\Debug\net8.0\PairSumCalculator.pdb
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\PairSumCalculator\obj\Debug\net8.0\PairSumCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\PairSumCalculator\obj\Debug\net8.0\PairSumCalculator.AssemblyInfoInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\PairSumCalculator\obj\Debug\net8.0\PairSumCalculator.AssemblyInfo.cs
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\PairSumCalculator\obj\Debug\net8.0\PairSumCalculator.csproj.CoreCompileInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\PairSumCalculator\obj\Debug\net8.0\PairSumCalculator.sourcelink.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\PairSumCalculator\obj\Debug\net8.0\PairSumCalculator.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\PairSumCalculator\obj\Debug\net8.0\refint\PairSumCalculator.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\PairSumCalculator\obj\Debug\net8.0\PairSumCalculator.pdb
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\PairSumCalculator\obj\Debug\net8.0\PairSumCalculator.genruntimeconfig.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\PairSumCalculator\obj\Debug\net8.0\ref\PairSumCalculator.dll
