@@ -1,0 +1,15 @@
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\NumberProcessorApp\bin\Debug\net8.0\NumberProcessorApp.exe
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\NumberProcessorApp\bin\Debug\net8.0\NumberProcessorApp.deps.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\NumberProcessorApp\bin\Debug\net8.0\NumberProcessorApp.runtimeconfig.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\NumberProcessorApp\bin\Debug\net8.0\NumberProcessorApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\NumberProcessorApp\bin\Debug\net8.0\NumberProcessorApp.pdb
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\NumberProcessorApp\obj\Debug\net8.0\NumberProcessorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\NumberProcessorApp\obj\Debug\net8.0\NumberProcessorApp.AssemblyInfoInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\NumberProcessorApp\obj\Debug\net8.0\NumberProcessorApp.AssemblyInfo.cs
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\NumberProcessorApp\obj\Debug\net8.0\NumberProcessorApp.csproj.CoreCompileInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\NumberProcessorApp\obj\Debug\net8.0\NumberProcessorApp.sourcelink.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\NumberProcessorApp\obj\Debug\net8.0\NumberProcessorApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\NumberProcessorApp\obj\Debug\net8.0\refint\NumberProcessorApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\NumberProcessorApp\obj\Debug\net8.0\NumberProcessorApp.pdb
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\NumberProcessorApp\obj\Debug\net8.0\NumberProcessorApp.genruntimeconfig.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\NumberProcessorApp\obj\Debug\net8.0\ref\NumberProcessorApp.dll
