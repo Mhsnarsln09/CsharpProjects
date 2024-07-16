@@ -1,0 +1,15 @@
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\VotingApp\bin\Debug\net8.0\VotingApp.exe
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\VotingApp\bin\Debug\net8.0\VotingApp.deps.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\VotingApp\bin\Debug\net8.0\VotingApp.runtimeconfig.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\VotingApp\bin\Debug\net8.0\VotingApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\VotingApp\bin\Debug\net8.0\VotingApp.pdb
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\VotingApp\obj\Debug\net8.0\VotingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\VotingApp\obj\Debug\net8.0\VotingApp.AssemblyInfoInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\VotingApp\obj\Debug\net8.0\VotingApp.AssemblyInfo.cs
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\VotingApp\obj\Debug\net8.0\VotingApp.csproj.CoreCompileInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\VotingApp\obj\Debug\net8.0\VotingApp.sourcelink.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\VotingApp\obj\Debug\net8.0\VotingApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\VotingApp\obj\Debug\net8.0\refint\VotingApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\VotingApp\obj\Debug\net8.0\VotingApp.pdb
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\VotingApp\obj\Debug\net8.0\VotingApp.genruntimeconfig.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\VotingApp\obj\Debug\net8.0\ref\VotingApp.dll
