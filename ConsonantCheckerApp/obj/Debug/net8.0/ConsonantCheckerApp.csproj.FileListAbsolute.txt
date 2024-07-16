@@ -1,0 +1,15 @@
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ConsonantCheckerApp\bin\Debug\net8.0\ConsonantCheckerApp.exe
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ConsonantCheckerApp\bin\Debug\net8.0\ConsonantCheckerApp.deps.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ConsonantCheckerApp\bin\Debug\net8.0\ConsonantCheckerApp.runtimeconfig.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ConsonantCheckerApp\bin\Debug\net8.0\ConsonantCheckerApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ConsonantCheckerApp\bin\Debug\net8.0\ConsonantCheckerApp.pdb
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ConsonantCheckerApp\obj\Debug\net8.0\ConsonantCheckerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ConsonantCheckerApp\obj\Debug\net8.0\ConsonantCheckerApp.AssemblyInfoInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ConsonantCheckerApp\obj\Debug\net8.0\ConsonantCheckerApp.AssemblyInfo.cs
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ConsonantCheckerApp\obj\Debug\net8.0\ConsonantCheckerApp.csproj.CoreCompileInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ConsonantCheckerApp\obj\Debug\net8.0\ConsonantCheckerApp.sourcelink.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ConsonantCheckerApp\obj\Debug\net8.0\ConsonantCheckerApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ConsonantCheckerApp\obj\Debug\net8.0\refint\ConsonantCheckerApp.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ConsonantCheckerApp\obj\Debug\net8.0\ConsonantCheckerApp.pdb
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ConsonantCheckerApp\obj\Debug\net8.0\ConsonantCheckerApp.genruntimeconfig.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ConsonantCheckerApp\obj\Debug\net8.0\ref\ConsonantCheckerApp.dll
