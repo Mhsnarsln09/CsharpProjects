@@ -1,0 +1,15 @@
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ATMApplication\bin\Debug\net8.0\ATMApplication.exe
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ATMApplication\bin\Debug\net8.0\ATMApplication.deps.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ATMApplication\bin\Debug\net8.0\ATMApplication.runtimeconfig.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ATMApplication\bin\Debug\net8.0\ATMApplication.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ATMApplication\bin\Debug\net8.0\ATMApplication.pdb
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ATMApplication\obj\Debug\net8.0\ATMApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ATMApplication\obj\Debug\net8.0\ATMApplication.AssemblyInfoInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ATMApplication\obj\Debug\net8.0\ATMApplication.AssemblyInfo.cs
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ATMApplication\obj\Debug\net8.0\ATMApplication.csproj.CoreCompileInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ATMApplication\obj\Debug\net8.0\ATMApplication.sourcelink.json
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ATMApplication\obj\Debug\net8.0\ATMApplication.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ATMApplication\obj\Debug\net8.0\refint\ATMApplication.dll
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ATMApplication\obj\Debug\net8.0\ATMApplication.pdb
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ATMApplication\obj\Debug\net8.0\ATMApplication.genruntimeconfig.cache
+C:\Users\muhsi\Desktop\Project\Personal\.Net\CsharpProjects\ATMApplication\obj\Debug\net8.0\ref\ATMApplication.dll
