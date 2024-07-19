@@ -1,0 +1,38 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# Ignore Visual Studio files
+.vs/
+*.vscode/
+
+# Ignore ReSharper files
+_ReSharper*/
+
+# Ignore build logs and cache files
+*.log
+*.cache
+
+# Ignore test results
+TestResults/
+
+# Ignore publish profiles
+*.pubxml
+
+# Ignore .NET Core build artifacts
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.exe.config
+*.deps.json
+*.runtimeconfig.json
