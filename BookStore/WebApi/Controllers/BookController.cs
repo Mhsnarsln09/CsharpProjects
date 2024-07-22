@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 
 
-namespace WepAbi.Controllers
+namespace WebApi.Controllers
 {
 
     [ApiController]
